@@ -2,7 +2,7 @@
 	
 <section>
 	<header class="major">
-		<h2> <?php echo $ENDEREÇO ?> </h2>
+		<h2> <?php echo $ENDERECO ?> </h2>
 	</header>
 	<p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 	<ul class="contact">
