@@ -12,4 +12,4 @@
 
 	$PATROCINIO = "Patrocinado";
 
-	$ENDERECO = "Endereo";
+	$ENDERECO = "Endereço";
